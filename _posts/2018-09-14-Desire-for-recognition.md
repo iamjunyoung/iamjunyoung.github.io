@@ -9,7 +9,7 @@ categories: 인정욕구
 **Scene 1.**  
 살면서 최초로 단발에 가깝게 머리를 길러 보았다.  
 이런 머리로 오랜만에 대학교때 친구들, 동생들을 만났는데  
-만난 동생들의 잔소리.
+만난 사람들의 잔소리.  
 "왜이렇게 머리를 길렀나?"  
 "집에 어른들이 뭐라고 안하시나?"  
 어이 없다는 듯한 말투, 무시하는듯한 눈빛.  
@@ -81,6 +81,7 @@ categories: 인정욕구
 아래의 책, 영상을 보면 좋을 것 같다.  
 
 책 [매달린 절벽에서 손을 뗄 수 있는가? - 강신주](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955)
+
 영상
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=i9Yvi4CdkBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
