@@ -81,7 +81,8 @@ categories: 인정욕구
 아래의 책, 영상을 보면 좋을 것 같다.
 
 [http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955)
-[https://www.youtube.com/watch?v=i9Yvi4CdkBg](https://www.youtube.com/watch?v=i9Yvi4CdkBg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=i9Yvi4CdkBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 **매달린 절벽에서 손을 뗄 수 있는가?**
