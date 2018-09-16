@@ -83,7 +83,7 @@ categories: 인정욕구
 책 [매달린 절벽에서 손을 뗄 수 있는가? - 강신주](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955)
 
 영상
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=i9Yvi4CdkBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i9Yvi4CdkBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **매달린 절벽에서 손을 뗄 수 있는가?**
 
