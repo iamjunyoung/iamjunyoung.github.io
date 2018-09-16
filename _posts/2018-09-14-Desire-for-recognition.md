@@ -6,8 +6,8 @@ mathjax: true
 categories: 인정욕구
 ---
 
-**Scene 1.**
-살면서 최초로 단발에 가깝게 머리를 길러 보았다.
+**Scene 1.**  
+살면서 최초로 단발에 가깝게 머리를 길러 보았다.  
 이런 머리로 오랜만에 대학교때 친구들, 동생들을 만났는데  
 만난 동생들의 잔소리.
 "왜이렇게 머리를 길렀나?"  
@@ -16,7 +16,7 @@ categories: 인정욕구
 '니가 박보검이냐' 이런 표정  
 도대체 왜 그렇게 말을 하고 왜 그렇게 쳐다 보는지?  
 
-**Scene 2.**
+**Scene 2.**  
 꿈과 무의식에 대한 책을 읽던 어느날,  
 회사 회식자리에서 누군가가  
 "이글루씨, 요즘 책 들고 다니던데 무슨 책 읽어?"  
@@ -80,14 +80,14 @@ categories: 인정욕구
 이런 인정욕구를 조금이나마 극복하고 자유로워 지기 위해  
 아래의 책, 영상을 보면 좋을 것 같다.  
 
-[http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955)
-
+책 [매달린 절벽에서 손을 뗄 수 있는가? - 강신주](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42022955)
+영상
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=i9Yvi4CdkBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **매달린 절벽에서 손을 뗄 수 있는가?**
 
 p 192.
-> 못생겼다고 누군가 나에게 손가락질을 하거나 무능력하다고 누군가 나를 비하한다면, 존재 이유가 사라진 우리는 자살해야 하는 것 일까요?
+>못생겼다고 누군가 나에게 손가락질을 하거나 무능력하다고 누군가 나를 비하한다면, 존재 이유가 사라진 우리는 자살해야 하는 것 일까요?
 
 p 193.
 > 티인의 평가에 일희일비 하는순간, 우리는 바람에 날리는 나뭇잎처럼 수동적인 삶을 살아 낼 수밖에 없습니다.
