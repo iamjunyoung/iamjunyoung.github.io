@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 애인 또는 배우자가 있는데 다른 매력적인 이성이 다가오거나 좋아진다면?
-featured-img:
+featured-img: sun-3130638_1920
 mathjax: true
 categories: [사랑, 욕망, 욕구충족, 낭만주의적 자기실현]
 ---

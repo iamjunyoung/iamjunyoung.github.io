@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 자식을 키우는 부모들이 들으면 좋을만한 영상
-featured-img:
+featured-img: sun-3130638_1920
 mathjax: true
 categories: 부모공부
 ---
