@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 인정욕구를 극복하고 자유로워 지기
-featured-img: floral-2069810_640
+featured-img: richard-lee-1121850-unsplash
 mathjax: true
 categories: 인정욕구
 ---

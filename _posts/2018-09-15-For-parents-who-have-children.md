@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 자식을 키우는 부모들이 들으면 좋을만한 영상
-featured-img: sun-3130638_1920
+featured-img: kinga-cichewicz-1120342-unsplash
 mathjax: true
 categories: 부모공부
 ---
@@ -50,3 +50,6 @@ categories: 부모공부
 
 어렸을 땐 부모눈치, 자식 낳고는 자식 눈치. 이렇게 눈치 보며 살지 마라
 자식에게도 기꺼이 욕먹을 각오 해.
+
+
+Photo by Kinga Cichewicz on Unsplash
